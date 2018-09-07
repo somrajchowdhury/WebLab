@@ -1,6 +1,6 @@
 # WebLab
 
-## Simple Calculator using JavaScript
+## 1] Simple Calculator using JavaScript
 
 > **Output :**
 

@@ -11,7 +11,7 @@
   </a>
 </div>
 
-[(Back to top)](#web-lab)
+[(Back to top)](#weblab)
 
 ## Program 2 : Square and Cube of a Number
 
@@ -24,4 +24,4 @@
   </a>
 </div>
 
-[(Back to top)](#web-lab)
+[(Back to top)](#weblab)

@@ -1,4 +1,4 @@
-# WebLab > Lab Programs
+# WebLab
 
 ## Program 1 : Simple Calculator using JavaScript
 

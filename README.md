@@ -1,5 +1,22 @@
 # WebLab
 
+<div align="center">
+  <a href="https://github.com/somrajchowdhury/WebLab/">
+    <img src="https://img.shields.io/badge/HTML--red.svg"
+      alt="API stability" />
+  </a>
+  
+  <a href="https://github.com/somrajchowdhury/WebLab/">
+    <img src="https://img.shields.io/badge/JS--yellow.svg"
+      alt="API stability" />
+  </a>
+  
+  <a href="https://github.com/somrajchowdhury/WebLab/">
+    <img src="https://img.shields.io/badge/CSS--blue.svg"
+      alt="API stability" />
+  </a>
+</div>
+
 ## Program 1 : Simple Calculator using JavaScript
 
 > **Output :**

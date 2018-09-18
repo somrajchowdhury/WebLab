@@ -37,7 +37,20 @@
 <div align="center">
   <a href="https://github.com/somrajchowdhury/WebLab/blob/master/Program%202%20-%20Square%26CubeOfNumber.html">
     <img src="https://github.com/somrajchowdhury/WebLab/blob/master/Output/Square%26Cube.png"
-      alt="JSCalci" />
+      alt="SqCuNum" />
+  </a>
+</div>
+
+[(Back to top)](#weblab)
+
+## Program 3 : Text GROW & SHRINK
+
+> **Output :**
+
+<div align="center">
+  <a href="https://github.com/somrajchowdhury/WebLab/blob/master/Program%203%20-%20TextGrowShrink.html">
+    <img src="https://github.com/somrajchowdhury/WebLab/blob/master/Output/Output%203%20-%20TextGrowShrink.gif"
+      alt="TxtGrowShrink" />
   </a>
 </div>
 
